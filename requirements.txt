@@ -1,0 +1,7 @@
+langchain-milvus
+python-dotenv
+langchain_huggingface
+sentence_transformers
+langchain-groq
+langchain-openai
+pyyaml
